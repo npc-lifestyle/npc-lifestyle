@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">🖤 npc-lifestyle</h1>
----
 
 ## 🖤 About Me
 
